@@ -1,0 +1,15 @@
+C:\Repos\BookProject\bin\Debug\net7.0\BookProject.exe
+C:\Repos\BookProject\bin\Debug\net7.0\BookProject.deps.json
+C:\Repos\BookProject\bin\Debug\net7.0\BookProject.runtimeconfig.json
+C:\Repos\BookProject\bin\Debug\net7.0\BookProject.dll
+C:\Repos\BookProject\bin\Debug\net7.0\BookProject.pdb
+C:\Repos\BookProject\obj\Debug\net7.0\BookProject.csproj.AssemblyReference.cache
+C:\Repos\BookProject\obj\Debug\net7.0\BookProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\BookProject\obj\Debug\net7.0\BookProject.AssemblyInfoInputs.cache
+C:\Repos\BookProject\obj\Debug\net7.0\BookProject.AssemblyInfo.cs
+C:\Repos\BookProject\obj\Debug\net7.0\BookProject.csproj.CoreCompileInputs.cache
+C:\Repos\BookProject\obj\Debug\net7.0\BookProject.dll
+C:\Repos\BookProject\obj\Debug\net7.0\refint\BookProject.dll
+C:\Repos\BookProject\obj\Debug\net7.0\BookProject.pdb
+C:\Repos\BookProject\obj\Debug\net7.0\BookProject.genruntimeconfig.cache
+C:\Repos\BookProject\obj\Debug\net7.0\ref\BookProject.dll
