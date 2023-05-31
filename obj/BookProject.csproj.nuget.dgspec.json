@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\BookProject\\BookProject.csproj": {}
+    "C:\\Users\\Ale\\Desktop\\Projects\\library-project\\BookProject.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\BookProject\\BookProject.csproj": {
+    "C:\\Users\\Ale\\Desktop\\Projects\\library-project\\BookProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\BookProject\\BookProject.csproj",
+        "projectUniqueName": "C:\\Users\\Ale\\Desktop\\Projects\\library-project\\BookProject.csproj",
         "projectName": "BookProject",
-        "projectPath": "C:\\Repos\\BookProject\\BookProject.csproj",
-        "packagesPath": "C:\\Users\\luis.ajucum\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\BookProject\\obj\\",
+        "projectPath": "C:\\Users\\Ale\\Desktop\\Projects\\library-project\\BookProject.csproj",
+        "packagesPath": "C:\\Users\\Ale\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ale\\Desktop\\Projects\\library-project\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "C:\\Users\\luis.ajucum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ale\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -42,6 +39,12 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "dependencies": {
+            "Firebase.Database": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -58,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
