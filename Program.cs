@@ -12,9 +12,9 @@ library.AddBook(bookTwo);
 library.AddBook(bookThree);
 
 
-foreach(var item in library.allBbooks)
+foreach(var item in library.allBooks)
 {
-    Console.WriteLine(item.titleName);
+    Console.WriteLine(item.TitleName);
 }
 
 // library.SearchBook("more music");
