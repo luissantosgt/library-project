@@ -3,7 +3,6 @@ using System;
 using LibraryManagmentSystem;
 
 
-<<<<<<< HEAD
 var book = new Book("music");
 var bookTwo = new Book("art");
 var bookThree = new Book("more music");
@@ -20,24 +19,3 @@ foreach(var item in library.allBooks)
 }
 
 // library.SearchBook("more music");
-=======
-class Program
-{
-    static void Main(string[] args)
-    {
-        Book firstBook = new Book("music", "production overview");
-
-
-        Library mybook = new Library();
-        mybook.AddBook(firstBook);
-        mybook.SearchBook("music");
-
-
-
-    }
-
-}
-
-
-
->>>>>>> dfc4ed05b869194be8b28c01f198a4bb7925c426

@@ -7,24 +7,8 @@ namespace LibraryManagmentSystem
 {
 public class Library {
 
-<<<<<<< HEAD
 // property is a list of type book //list of books 
 public List<Book> allBooks = new List<Book>();
-=======
-//list of books 
-
-private List<Book> books;
-public Library(){
-    this.books = new List<Book>();
-
-}
-//methods add, remove, and search
-
-//method add
-public void AddBook(Book book)
-{
-    books.Add(book);
->>>>>>> dfc4ed05b869194be8b28c01f198a4bb7925c426
 
 // constructor that initialize the list
 
@@ -33,7 +17,6 @@ public Library()
     
 }
 
-<<<<<<< HEAD
 //methods add, remove, and search
 
 public void AddBook(Book book)
@@ -66,23 +49,5 @@ public List<Book> SearchList(string title){
 }
 
 }
-=======
-//method search
-public void SearchBook(string title)
-{
-    var searchBook  = books.Find(x => x.titleName == title);
-    if(searchBook != null)
-    {
-        Console.WriteLine(searchBook.titleName);
-    }
-} 
-      
-}
-
-
-
-
-
->>>>>>> dfc4ed05b869194be8b28c01f198a4bb7925c426
 
 }
