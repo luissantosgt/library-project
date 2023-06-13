@@ -282,19 +282,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Ale\\.nuget\\packages\\": {}
+    "C:\\Users\\luis.ajucum\\.nuget\\packages\\": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ale\\Desktop\\Projects\\library-project\\BookProject.csproj",
+      "projectUniqueName": "C:\\Repos\\BookProject\\BookProject.csproj",
       "projectName": "BookProject",
-      "projectPath": "C:\\Users\\Ale\\Desktop\\Projects\\library-project\\BookProject.csproj",
-      "packagesPath": "C:\\Users\\Ale\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ale\\Desktop\\Projects\\library-project\\obj\\",
+      "projectPath": "C:\\Repos\\BookProject\\BookProject.csproj",
+      "packagesPath": "C:\\Users\\luis.ajucum\\.nuget\\packages\\",
+      "outputPath": "C:\\Repos\\BookProject\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\Ale\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\luis.ajucum\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -341,7 +345,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   },

@@ -3,9 +3,9 @@ using System;
 using LibraryManagmentSystem;
 
 
-var book = new Book("music");
-var bookTwo = new Book("art");
-var bookThree = new Book("more music");
+var book = new Book("music","denis", 2015);
+var bookTwo = new Book("art", "luis", 2016);
+var bookThree = new Book("more music", "ale", 2017);
 
 var library = new Library();
 library.AddBook(book);

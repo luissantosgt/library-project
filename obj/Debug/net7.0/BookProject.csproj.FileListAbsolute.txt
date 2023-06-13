@@ -35,3 +35,10 @@ C:\Users\Ale\Desktop\Projects\library-project\bin\Debug\net7.0\System.Reactive.I
 C:\Users\Ale\Desktop\Projects\library-project\bin\Debug\net7.0\System.Reactive.Linq.dll
 C:\Users\Ale\Desktop\Projects\library-project\bin\Debug\net7.0\System.Reactive.PlatformServices.dll
 C:\Users\Ale\Desktop\Projects\library-project\obj\Debug\net7.0\BookProject.csproj.CopyComplete
+C:\Repos\BookProject\bin\Debug\net7.0\Firebase.Database.dll
+C:\Repos\BookProject\bin\Debug\net7.0\Newtonsoft.Json.dll
+C:\Repos\BookProject\bin\Debug\net7.0\System.Reactive.Core.dll
+C:\Repos\BookProject\bin\Debug\net7.0\System.Reactive.Interfaces.dll
+C:\Repos\BookProject\bin\Debug\net7.0\System.Reactive.Linq.dll
+C:\Repos\BookProject\bin\Debug\net7.0\System.Reactive.PlatformServices.dll
+C:\Repos\BookProject\obj\Debug\net7.0\BookProject.csproj.CopyComplete

@@ -8,13 +8,13 @@ namespace LibraryManagmentSystem
 public class Library {
 
 // property is a list of type book //list of books 
-public List<Book> allBooks = new List<Book>();
+public List<Book> allBooks; 
 
 // constructor that initialize the list
 
 public Library()
 {
-    
+    this.allBooks = new List<Book>();
 }
 
 //methods add, remove, and search
